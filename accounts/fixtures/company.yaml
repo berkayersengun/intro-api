@@ -1,0 +1,68 @@
+- model: accounts.company
+  pk: 1
+  fields:
+    name: Ericsson
+- model: accounts.company
+  pk: 2
+  fields:
+    name: Google
+- model: accounts.company
+  pk: 3
+  fields:
+    name: Facebook
+- model: accounts.company
+  pk: 4
+  fields:
+    name: Amazon
+- model: accounts.company
+  pk: 5
+  fields:
+    name: Netflix
+- model: accounts.company
+  pk: 6
+  fields:
+    name: Walmart
+- model: accounts.company
+  pk: 7
+  fields:
+    name: Apple
+- model: accounts.company
+  pk: 8
+  fields:
+    name: Microsoft
+- model: accounts.company
+  pk: 9
+  fields:
+    name: Home Depot
+- model: accounts.company
+  pk: 10
+  fields:
+    name: Chevron
+- model: accounts.company
+  pk: 11
+  fields:
+    name: Oracle
+- model: accounts.company
+  pk: 12
+  fields:
+    name: Boeing
+- model: accounts.company
+  pk: 13
+  fields:
+    name: Ford Motor
+- model: accounts.company
+  pk: 14
+  fields:
+    name: Target
+- model: accounts.company
+  pk: 15
+  fields:
+    name: Merck
+- model: accounts.company
+  pk: 16
+  fields:
+    name: Walt Disney
+- model: accounts.company
+  pk: 17
+  fields:
+    name: Pfizer

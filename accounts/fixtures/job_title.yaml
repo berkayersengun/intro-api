@@ -1,0 +1,56 @@
+- model: accounts.jobtitle
+  pk: 1
+  fields:
+    name: Software Engineer
+- model: accounts.jobtitle
+  pk: 2
+  fields:
+    name: Chemical Engineer
+- model: accounts.jobtitle
+  pk: 3
+  fields:
+    name: Lawyer
+- model: accounts.jobtitle
+  pk: 4
+  fields:
+    name: Veterinarian
+- model: accounts.jobtitle
+  pk: 5
+  fields:
+    name: Teacher
+- model: accounts.jobtitle
+  pk: 6
+  fields:
+    name: Gardner
+- model: accounts.jobtitle
+  pk: 7
+  fields:
+    name: Doctor
+- model: accounts.jobtitle
+  pk: 8
+  fields:
+    name: Pilot
+- model: accounts.jobtitle
+  pk: 9
+  fields:
+    name: Truck Driver
+- model: accounts.jobtitle
+  pk: 10
+  fields:
+    name: Bartender
+- model: accounts.jobtitle
+  pk: 11
+  fields:
+    name: Nurse
+- model: accounts.jobtitle
+  pk: 12
+  fields:
+    name: Pharmacist
+- model: accounts.jobtitle
+  pk: 13
+  fields:
+    name: Mechanical Engineer
+- model: accounts.jobtitle
+  pk: 14
+  fields:
+    name: Physician

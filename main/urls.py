@@ -15,9 +15,22 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from rest_framework import routers
+from accounts.urls import router as router_accounts
+from data.urls import router as router_data
+from accounts import views
+
+
+# router = routers.DefaultRouter(trailing_slash=False)
+# router.registry.extend(router_accounts.registry)
+# router.registry.extend(router_data.registry)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('data/', include('data.urls')),
+    path('v1/', include('data.urls')),
+    path('', include('accounts.urls')),
+    # path('', include(router.urls)),
+    path('auth/', include('authentication.urls')),
+    path('drf/', include('rest_framework.urls')),
 
 ]

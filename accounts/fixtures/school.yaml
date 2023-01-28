@@ -1,0 +1,56 @@
+- model: accounts.school
+  pk: 1
+  fields:
+    name: University of Limerick
+- model: accounts.school
+  pk: 2
+  fields:
+    name: University of Glasgow
+- model: accounts.school
+  pk: 3
+  fields:
+    name: University of Strathclyde
+- model: accounts.school
+  pk: 4
+  fields:
+    name: University of Oxford
+- model: accounts.school
+  pk: 5
+  fields:
+    name: Stanford University
+- model: accounts.school
+  pk: 6
+  fields:
+    name: Harvard University
+- model: accounts.school
+  pk: 7
+  fields:
+    name: University of Cambridge
+- model: accounts.school
+  pk: 8
+  fields:
+    name: University of Toronto
+- model: accounts.school
+  pk: 9
+  fields:
+    name: Massachusetts Institute of Technology
+- model: accounts.school
+  pk: 10
+  fields:
+    name: University of California Berkeley
+- model: accounts.school
+  pk: 11
+  fields:
+    name: Imperial College London
+- model: accounts.school
+  pk: 12
+  fields:
+    name: University of Chicago
+- model: accounts.school
+  pk: 13
+  fields:
+    name: Princeton University
+- model: accounts.school
+  pk: 14
+  fields:
+    name: Yale University

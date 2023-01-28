@@ -1,0 +1,91 @@
+- model: accounts.account
+  pk: 1
+  fields:
+    username: berkayersengun
+    first_name: Berkay
+    last_name: Ersengun
+    email: berkayersengun@gmail.com
+    groups: [ ]
+    gender: Male
+    age: 35
+    weight: 65
+    height: 173
+    birth_date: '1987-02-03'
+    marital_status: Single
+    nationality: TURKEY
+    hometown: TURKEY
+    location: CANADA
+    school: 1
+    school_level: Graduate
+    company: 1
+    job_title: 1
+    zodiac: Aquarius
+    smoke: Socially Smoke
+    bio: ''
+    religion: Christian
+    politics: Apolitical
+
+- model: accounts.account
+  pk: 2
+  fields:
+    name: Google
+- model: accounts.account
+  pk: 3
+  fields:
+    name: Facebook
+- model: accounts.account
+  pk: 4
+  fields:
+    name: Amazon
+- model: accounts.account
+  pk: 5
+  fields:
+    name: Netflix
+- model: accounts.account
+  pk: 6
+  fields:
+    name: Walmart
+- model: accounts.account
+  pk: 7
+  fields:
+    name: Apple
+- model: accounts.account
+  pk: 8
+  fields:
+    name: Microsoft
+- model: accounts.account
+  pk: 9
+  fields:
+    name: Home Depot
+- model: accounts.account
+  pk: 10
+  fields:
+    name: Chevron
+- model: accounts.account
+  pk: 11
+  fields:
+    name: Oracle
+- model: accounts.account
+  pk: 12
+  fields:
+    name: Boeing
+- model: accounts.account
+  pk: 13
+  fields:
+    name: Ford Motor
+- model: accounts.account
+  pk: 14
+  fields:
+    name: Target
+- model: accounts.account
+  pk: 15
+  fields:
+    name: Merck
+- model: accounts.account
+  pk: 16
+  fields:
+    name: Walt Disney
+- model: accounts.account
+  pk: 17
+  fields:
+    name: Pfizer
